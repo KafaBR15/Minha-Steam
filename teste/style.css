@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(50, 83, 84);
+}
+
+.link-1 {
+  font-size: 16px; /* Tamanho da fonte */
+  padding: 8px 50px; /* Espaço interno */
+  display: inline-block;
+  color: rgb(0, 0, 0); /* Cor padrão do link */
+  text-decoration: none;
+  margin-left: 280px;
+  margin-top: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(107, 165, 165);
+  border-radius: 8px;
+  border: 20px black;
+  width: 20px 50px;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    height: 110px;
+    margin-top: -20px;
+}
+
